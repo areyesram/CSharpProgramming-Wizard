@@ -6,3 +6,4 @@ Points of interest:
 
 * Windows Forms
   * Inherited controls
+  * Polymorphism
